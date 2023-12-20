@@ -17,3 +17,10 @@ Link: https://robocorp.com/docs/courses
 
 ## Other certifications
 - AutomationOps Analyst
+
+# Useful links
+- [Robot framework libraries](https://robocorp.com/docs/libraries/rpa-framework)
+- [Robocorp Visual Studio Code Extension Overview](https://robocorp.com/docs/developer-tools/visual-studio-code/extension-features#creating-a-new-robot)
+- [Robocorp naming best practices](https://robocorp.com/docs/development-guide/qa-and-best-practices/naming)
+- [Control Room](https://cloud.robocorp.com/)
+- [Markdown Syntax](https://www.markdownguide.org/cheat-sheet/)
